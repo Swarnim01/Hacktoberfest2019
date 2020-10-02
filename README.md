@@ -13,6 +13,6 @@ git push origin master
 ```
 5. Then create your pull request.
 6. Star my [repository](https://github.com/Dhroov7/HacktoberFest2019).
-7. Congratulations!! You have successfully created your pull request.
+7. Congratulation!! You have successfully created your pull request.
 8. Check your progress here (https://hacktoberfest.digitalocean.com/profile)
-9. Wait for your shirt.
+9. Wait for your Shirt.
